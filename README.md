@@ -21,7 +21,7 @@ This is a simple Android application built in around 3 hours that fetches and di
 
 ---
 
-### What I'd Add with More Time
+### What I Would Add with More Time
 
 *   **Testing the ViewModel **:
 *   **Dependency Injection**: I would integrate Hilt or Koin for proper dependency injection. This would make the app more scalable and testing much easier by removing manual DI in the ViewModel factory.
